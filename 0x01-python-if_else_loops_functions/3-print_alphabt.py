@@ -1,4 +1,5 @@
 #!/usr/bin/python3
-for i in range(ord('a'), ord('z') + 1):
-    if chr(i) != 'e' and chr(i) != 'q':
-        print('{:c}'.format(i), end='')
+for all_letters in range(ord('a'), ord('z')+1):
+    letter = chr(all_letters)
+    if letter not in "qe":
+        print("{:s}".format(letter), end="")
