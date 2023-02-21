@@ -1,0 +1,1 @@
+Higher level programming refers to the practice of writing computer programs using high-level programming languages that are designed to be more expressive, abstracted, and easier to use than low-level programming languages.
